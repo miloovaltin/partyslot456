@@ -1,16 +1,16 @@
 {
-"name": "partyslot456",
-"theme": "party slot 456",
-"version": "3.2.1",
-"description": "party slot 456 สมัครสมาชิกเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ แจกเงินเครดิตฟรี",
-"keywords": [
-"party slot 456",
-"party slot 456 เครดิตฟรี",
-"party slot 456 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/partyslot456",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "partyslot456",
+  "theme": "party slot 456",
+  "version": "3.3.0",
+  "description": "party slot 456 สมัครสมาชิกเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ แจกเงินเครดิตฟรี",
+  "keywords": [
+    "party slot 456",
+    "party slot 456 เครดิตฟรี",
+    "party slot 456 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/partyslot456",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
